@@ -1,4 +1,4 @@
-<h1 align="center">Hi I am prajjwal sharma. Second year undergraduate student at Maharaja Agrasen Institute of Technology,rohini,Delhi</h1>
+<h1 align="center">Hi I am prajjwal sharma.</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwal2-3&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwal2-3" /> </p>
