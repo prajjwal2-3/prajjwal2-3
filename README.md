@@ -1,4 +1,4 @@
-# Hey! I'm Prajjwal
+# Hey! I'm Prajjwal 👋
 
 ## Software Engineer
 
