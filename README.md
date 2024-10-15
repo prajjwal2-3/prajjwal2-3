@@ -3,7 +3,7 @@
 ## Software Engineer
 
 - Based in **New Delhi, India**.
-- See my portfolio at [**Prajjwal sharma**](https://prajjwalsharma.vercel.app/).
+- See my portfolio at [**Prajjwal sharma**](https://prajjwal.dev/).
 - Reach out to me [**Email**](mailto:prajjwalbh25@gmail.com) or [**Twitter**](https://twitter.com/prajjwa63214072).
 - Working with **MERN, NextJS, Typescript, Websocket** nowadays!
 
