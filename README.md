@@ -4,7 +4,7 @@
 
 - Based in **New Delhi, India**.
 - See my portfolio at [**Prajjwal sharma**](https://prajjwal.dev/).
-- Reach out to me [**Email**](mailto:prajjwalbh25@gmail.com) or [**Twitter**](https://twitter.com/prajjwa63214072).
+- Reach out to me [**Email**](mailto:prajjwalbh25@gmail.com) or [**Twitter**](https://x.com/iprajjwalsharma).
 - Working with **MERN, NextJS, Typescript, Websocket** nowadays!
 
 ## Tools & Technologies
@@ -18,9 +18,9 @@
 
 ## Socials
 
-- Connect with me on [**X/Twitter**](https://twitter.com/prajjwa63214072).
-- Add me on [**LinkedIn**](https://www.linkedin.com/in/prajjwal-sharma-5700811b1/).
-- Everything on [**Website**](https://prajjwalsharma.vercel.app/).
+- Connect with me on [**X/Twitter**](https://x.com/iprajjwalsharma).
+- Add me on [**LinkedIn**](https://www.linkedin.com/in/prajjwaldev).
+- Everything on [**Website**](https://prajjwal.dev/).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajjwal2-3&label=Profile%20views&color=0e75b6&style=flat" alt="prajjwal2-3" /> </p>
 
