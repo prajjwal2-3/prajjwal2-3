@@ -9,9 +9,9 @@
 
 ## Tools & Technologies
 
-- **Languages**: Java, Javascript/TypeScript.
+- **Languages**: Go, Javascript/TypeScript, Python.
 - **Frameworks/Libraries**: Node.js/Express.js, React.js, Next.js. 
-- **Platforms**: GitHub, Vercel.
+- **Platforms**: GitHub, AWS, GCP.
 - **Databases**: MongoDB, PostgreSQL, Supabase.
 - **ORM**: Prisma, Mongoose.
 - **Misc**: Docker, Turborepo, TailwindCSS, Zustand.
